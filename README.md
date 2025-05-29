@@ -1,4 +1,4 @@
-*🌾 FarmSmart – Crop Recommendation System*
+**🌾 FarmSmart – Crop Recommendation System**
 FarmSmart is a Machine Learning-based project that helps farmers select the most suitable crops based on environmental and soil parameters. By leveraging data science, this system provides smart crop suggestions to increase yield and support informed agricultural decisions.
 
 🚀 Features
